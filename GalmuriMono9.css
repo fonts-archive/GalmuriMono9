@@ -4,6 +4,7 @@
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GalmuriMono9/GalmuriMono9.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/GalmuriMono9/GalmuriMono9.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GalmuriMono9/GalmuriMono9.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GalmuriMono9/GalmuriMono9.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GalmuriMono9/GalmuriMono9.ttf') format('truetype');
 }
